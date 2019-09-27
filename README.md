@@ -8,3 +8,9 @@ My hobbies are playing musical instrument and watching movies.
 Thats all about me.
 
 
+#additional infor
+My marital status is married and happy with my wife.
+We are still single parents and looking forward to having kids in future.
+
+
+
